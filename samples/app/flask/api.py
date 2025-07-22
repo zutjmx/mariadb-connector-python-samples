@@ -12,9 +12,9 @@ app = flask.Flask(__name__)
 app.config["DEBUG"] = True
 
 config = {
-    'host': '127.0.0.1',
-    'user': 'app_user',
-    'password': 'Password123!',
+    'host': '192.168.1.199',
+    'user': 'zutjmx',
+    'password': 'sistemas',
     'database': 'todo'
 }
 
